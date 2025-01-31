@@ -21,9 +21,6 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 <div>
     <a href="https://www.loom.com/share/f6e8eac1f44c4a7c9221447663a63243">
@@ -52,11 +49,7 @@ Prompt : Make a list of your favorite 3-5 applications and identify 2-3 features
 - The video preview netflix allows when you to watch as you hover over media titles. 
 
 
-Prompt : Think of an app idea that you would like to build. It can be a new idea or an improvement on an existing app. 
-
-Write a short paragraph describing the app and the features you would like to implement. 
-
-You are not commiting to this idea, but it helps to start brain storming early on and get feedback from your peers and instructors.
+Prompt : Think of an app idea that you would like to build. It can be a new idea or an improvement on an existing app. Write a short paragraph describing the app and the features you would like to implement. You are not commiting to this idea, but it helps to start brain storming early on and get feedback from your peers and instructors.
 
 An app I dea I would love to build is one where the user can simultanously scroll on a variety of media like Netflix while also being able to see the response from the community. I would also add the feature  to view other member's profile plus their favorite shows or movies would help add more community to the user base. 
 
