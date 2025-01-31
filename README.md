@@ -8,7 +8,7 @@
 
 Submitted by: **Mikayle Despaigne**
 
-**Name of your app** is an app that... [TODO] 
+**ColorChanger.io** is an app that... [Allows user to change background color of app].
 
 Time spent: **5** hours spent in total
 
