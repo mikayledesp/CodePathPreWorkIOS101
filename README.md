@@ -29,7 +29,7 @@ The following **required** functionality is completed:
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/f6e8eac1f44c4a7c9221447663a63243-ed58a84ca56c5e1c-full-play.gif">
     </a>
   </div>
-
+<div style="position: relative; padding-bottom: 65.0210716435882%; height: 0;"><iframe src="https://www.loom.com/embed/f6e8eac1f44c4a7c9221447663a63243?sid=a016d097-47da-4943-a825-5858a510a194" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 ## App Brainstorming (Step 4)
 
 
